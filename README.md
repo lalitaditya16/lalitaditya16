@@ -1,5 +1,9 @@
 <!-- Profile README -->
+#  Hey, I'm Lalitaditya 👋  
 
+🚀 Data & AI enthusiast passionate about building intelligent systems, analytics dashboards, and automation solutions.  
+🎯 Skilled in **Data Science**, **Machine Learning**, **Generative AI**, and **Process Automation**.  
+📊 Experienced in creating **end-to-end projects** from **data ingestion** to **interactive visualizations**.
 ##  Tech Stack:
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
