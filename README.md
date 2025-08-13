@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-## 💻 Tech Stack:
+##  Tech Stack:
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -17,7 +17,7 @@
 
 ---
 
-### 📦 Data Science & AI
+###  Data Science & AI
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -31,7 +31,7 @@
 
 ---
 
-### 🤖 Generative AI & LLMs
+###  Generative AI & LLMs
 ![LangChain](https://img.shields.io/badge/LangChain-1B1F23?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFB000?style=for-the-badge&logo=huggingface&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -39,7 +39,7 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-0B0B45?style=for-the-badge&logo=graphql&logoColor=white)
 ---
 
-## 📊 GitHub Stats:
+##  GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lalitaditya16&show_icons=true&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com?user=lalitaditya16&theme=dark&hide_border=true)](https://git.io/streak-stats)
@@ -47,7 +47,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=lalitaditya16&theme=onedark)
 
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### [GameGuide](https://gameguide.streamlit.app)
 Interactive game analytics platform using RAWG API & AI assistant.  
