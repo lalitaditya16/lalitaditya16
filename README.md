@@ -40,3 +40,19 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lalitaditya16&show_icons=true&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com?user=lalitaditya16&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitaditya16&layout=compact&theme=dark)
+![trophy](https://github-profile-trophy.vercel.app/?username=lalitaditya16&theme=onedark)
+
+
+## 🚀 Featured Projects
+
+### [GameGuide](https://gameguide.streamlit.app)
+Interactive game analytics platform using RAWG API & AI assistant.  
+**Tech Stack**: Streamlit, Python, LangChain, Hugging Face, Groq, Tableau, PySpark  
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lalitaditya16&theme=github)
+
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=lalitaditya16.lalitaditya16)
+
