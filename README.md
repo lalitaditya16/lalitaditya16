@@ -60,6 +60,13 @@ Interactive game analytics platform using RAWG API & AI assistant.
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lalitaditya16&theme=github)
 
+## 📫 Connect with Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://lovable.dev/projects/4a82ad12-5086-41dc-8a65-ec8558db66cb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Lalitaditya_Charapanjeri)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lalitadityareddyc@gmail.com)
+
+
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=lalitaditya16.lalitaditya16)
 
