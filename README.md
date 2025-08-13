@@ -10,7 +10,10 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FF6F00?style=for-the-badge&logo=uipath&logoColor=white)
 
 ---
 
@@ -33,7 +36,7 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFB000?style=for-the-badge&logo=huggingface&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-FF4B00?style=for-the-badge&logo=groq&logoColor=white)
-
+![LangGraph](https://img.shields.io/badge/LangGraph-0B0B45?style=for-the-badge&logo=graphql&logoColor=white)
 ---
 
 ## 📊 GitHub Stats:
